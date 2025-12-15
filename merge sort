@@ -1,0 +1,37 @@
+def mergesort(arr,low,high):
+    mid=(low+high)//2
+    if low<high:
+        mergesort(arr,low,mid)
+        mergesort(arr,mid+1,high)
+        merge(arr,low,mid,high)
+
+def merge(arr,low,mid,high):
+    p1=low
+    p2=mid+1
+    temp=[]
+
+    while(p1<=mid and p2<=high):
+        if arr[p1]<arr[p2]:
+            temp.append(arr[p1])
+            p1+=1
+
+        else:
+            temp.append(arr[p2])
+            p2+=1
+        
+    while p1 <= mid:
+        temp.append(arr[p1])
+        p1 += 1
+
+    while p2 <= high:
+        temp.append(arr[p2])
+        p2 += 1
+
+    arr[low:high+1] = temp
+    
+
+arr=list(map(int,input("enter the array with space seperated").split()))
+mergesort(arr,0,4)
+print(arr)
+
+    
