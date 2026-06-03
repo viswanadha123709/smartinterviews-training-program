@@ -22,7 +22,7 @@ for testcase in range(int(input())):
         print("Yes")
         continue
     for i in range(k):
-        x=pow(x,a,n)
+        x=pow(x,2,n)
         if x==n-1:
             prime=True
             break
