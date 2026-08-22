@@ -61,3 +61,19 @@ These programs are written for **learning purposes** and to strengthen **problem
 ---
 
 Happy Coding! 💻
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2317-maximum-xor-after-operations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2317-maximum-xor-after-operations/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2317-maximum-xor-after-operations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2317-maximum-xor-after-operations/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2317-maximum-xor-after-operations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2317-maximum-xor-after-operations/) | Medium |
+<!---LeetCode Topics End-->
