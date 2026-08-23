@@ -81,4 +81,8 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0118-pascals-triangle/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0197-rising-temperature](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
