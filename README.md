@@ -72,6 +72,7 @@ Happy Coding! 💻
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1927-sum-game](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1927-sum-game/) | Medium |
 | [2317-maximum-xor-after-operations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## Bit Manipulation
@@ -102,4 +103,16 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1927-sum-game/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1927-sum-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
