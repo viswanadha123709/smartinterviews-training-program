@@ -17,7 +17,7 @@ class Solution:
             else:
                 rq+=1
         
-        return 2 * (l - r) != 9 * (rq - lq)
+        return (l - r) != 9 * (rq - lq)/2
 
         
         
