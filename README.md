@@ -69,6 +69,7 @@ Happy Coding! 💻
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0118-pascals-triangle/) | Easy |
 | [2317-maximum-xor-after-operations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2317-maximum-xor-after-operations/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,4 +116,8 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1927-sum-game](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1927-sum-game/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 <!---LeetCode Topics End-->
