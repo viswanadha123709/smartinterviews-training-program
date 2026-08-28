@@ -70,6 +70,7 @@ Happy Coding! 💻
 | [0118-pascals-triangle](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0118-pascals-triangle/) | Easy |
 | [0204-count-primes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0204-count-primes/) | Medium |
 | [0213-house-robber-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0213-house-robber-ii/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2317-maximum-xor-after-operations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
@@ -154,4 +155,12 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0204-count-primes/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 <!---LeetCode Topics End-->
