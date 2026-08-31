@@ -80,6 +80,7 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0204-count-primes/) | Medium |
+| [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
 | [1927-sum-game](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2317-maximum-xor-after-operations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2317-maximum-xor-after-operations/) | Medium |
@@ -103,6 +104,7 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0204-count-primes/) | Medium |
+| [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2523-closest-prime-numbers-in-range](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
@@ -141,11 +143,13 @@ Happy Coding! 💻
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 ## Sliding Window
@@ -166,4 +170,20 @@ Happy Coding! 💻
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0054-spiral-matrix/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
+## Least Common Multiple
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
+## Inclusion-Exclusion Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
 <!---LeetCode Topics End-->
