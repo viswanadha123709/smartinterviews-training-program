@@ -80,6 +80,7 @@ Happy Coding! 💻
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4049-count-values-with-equally-spaced-occurrences-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@ Happy Coding! 💻
 | ------- | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4049-count-values-with-equally-spaced-occurrences-ii/) | Medium |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
