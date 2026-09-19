@@ -87,6 +87,7 @@ Happy Coding! 💻
 | ------- | ------- |
 | [0204-count-primes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0204-count-primes/) | Medium |
 | [0313-super-ugly-number](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0313-super-ugly-number/) | Medium |
+| [0836-rectangle-overlap](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0836-rectangle-overlap/) | Easy |
 | [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1927-sum-game](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1927-sum-game/) | Medium |
@@ -224,4 +225,8 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1143-longest-common-subsequence/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
