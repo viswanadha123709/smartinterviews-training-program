@@ -72,6 +72,7 @@ Happy Coding! 💻
 | [0204-count-primes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0204-count-primes/) | Medium |
 | [0213-house-robber-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0213-house-robber-ii/) | Medium |
 | [0313-super-ugly-number](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0313-super-ugly-number/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -107,6 +108,7 @@ Happy Coding! 💻
 | [0118-pascals-triangle](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0118-pascals-triangle/) | Easy |
 | [0213-house-robber-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0213-house-robber-ii/) | Medium |
 | [0313-super-ugly-number](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0313-super-ugly-number/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1553-minimum-number-of-days-to-eat-n-oranges/) | Hard |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4050-minimum-days-to-score-exactly-n-points/) | Medium |
@@ -234,4 +236,12 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1553-minimum-number-of-days-to-eat-n-oranges/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
