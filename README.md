@@ -73,6 +73,7 @@ Happy Coding! 💻
 | [0213-house-robber-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0213-house-robber-ii/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2317-maximum-xor-after-operations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -83,6 +84,7 @@ Happy Coding! 💻
 | [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
 | [1927-sum-game](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2317-maximum-xor-after-operations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
@@ -106,6 +108,7 @@ Happy Coding! 💻
 | [0204-count-primes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0204-count-primes/) | Medium |
 | [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2523-closest-prime-numbers-in-range](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 ## Primality Test
@@ -151,6 +154,7 @@ Happy Coding! 💻
 | ------- | ------- |
 | [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -182,8 +186,13 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 ## Inclusion-Exclusion Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 <!---LeetCode Topics End-->
