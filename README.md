@@ -94,6 +94,7 @@ Happy Coding! 💻
 | [2317-maximum-xor-after-operations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4050-minimum-days-to-score-exactly-n-points/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@ Happy Coding! 💻
 | [0213-house-robber-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0213-house-robber-ii/) | Medium |
 | [0313-super-ugly-number](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0313-super-ugly-number/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1143-longest-common-subsequence/) | Medium |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4050-minimum-days-to-score-exactly-n-points/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
