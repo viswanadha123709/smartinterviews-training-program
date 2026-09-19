@@ -108,6 +108,7 @@ Happy Coding! 💻
 | [0213-house-robber-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0213-house-robber-ii/) | Medium |
 | [0313-super-ugly-number](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0313-super-ugly-number/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1553-minimum-number-of-days-to-eat-n-oranges/) | Hard |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4050-minimum-days-to-score-exactly-n-points/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -229,4 +230,8 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0836-rectangle-overlap/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1553-minimum-number-of-days-to-eat-n-oranges/) | Hard |
 <!---LeetCode Topics End-->
