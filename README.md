@@ -81,6 +81,7 @@ Happy Coding! 💻
 | [3718-smallest-missing-multiple-of-k](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4049-count-values-with-equally-spaced-occurrences-ii/) | Medium |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,12 +183,14 @@ Happy Coding! 💻
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0054-spiral-matrix/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0054-spiral-matrix/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
