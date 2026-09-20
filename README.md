@@ -105,6 +105,7 @@ Happy Coding! 💻
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0010-regular-expression-matching/) | Hard |
 | [0118-pascals-triangle](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0118-pascals-triangle/) | Easy |
 | [0213-house-robber-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0213-house-robber-ii/) | Medium |
 | [0313-super-ugly-number](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0313-super-ugly-number/) | Medium |
@@ -144,6 +145,7 @@ Happy Coding! 💻
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0010-regular-expression-matching/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1927-sum-game](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -219,6 +221,7 @@ Happy Coding! 💻
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0010-regular-expression-matching/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
