@@ -2,17 +2,17 @@ class Solution:
     def permute(self, nums: list[int]) -> list[list[int]]:
         n=len(nums)
         ans=[]
-        def permi(curr,visited):
+        def permi(curr,bit):
             if curr and len(curr)==n:
                 ans.append(curr[:])
                 return
             for i in range(n):
-                if visited[i]==0:
-                    visited[i]=1
+                if (bit>>i)&1==0:
+                    bit|=(1<<i)
                     curr.append(nums[i])
-                    permi(curr,visited)
+                    permi(curr,bit)
                     curr.pop()
-                    visited[i]=0
+                    bit^=(1<<i)
         curr=[]
-        permi(curr,[0]*n)
+        permi(curr,0)
         return ans
