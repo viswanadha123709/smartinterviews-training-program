@@ -82,6 +82,7 @@ Happy Coding! 💻
 | [2317-maximum-xor-after-operations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
+| [3115-maximum-prime-difference](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4049-count-values-with-equally-spaced-occurrences-ii/) | Medium |
@@ -102,6 +103,7 @@ Happy Coding! 💻
 | [2523-closest-prime-numbers-in-range](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
+| [3115-maximum-prime-difference](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3115-maximum-prime-difference/) | Medium |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4050-minimum-days-to-score-exactly-n-points/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -134,12 +136,14 @@ Happy Coding! 💻
 | [2523-closest-prime-numbers-in-range](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
+| [3115-maximum-prime-difference](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3115-maximum-prime-difference/) | Medium |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0204-count-primes/) | Medium |
 | [0866-prime-palindrome](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0866-prime-palindrome/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
+| [3115-maximum-prime-difference](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3115-maximum-prime-difference/) | Medium |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
