@@ -80,6 +80,7 @@ Happy Coding! 💻
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2317-maximum-xor-after-operations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2317-maximum-xor-after-operations/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3115-maximum-prime-difference/) | Medium |
@@ -100,6 +101,7 @@ Happy Coding! 💻
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2317-maximum-xor-after-operations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2317-maximum-xor-after-operations/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
@@ -133,6 +135,7 @@ Happy Coding! 💻
 | [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
@@ -142,17 +145,20 @@ Happy Coding! 💻
 | ------- | ------- |
 | [0204-count-primes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0204-count-primes/) | Medium |
 | [0866-prime-palindrome](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0866-prime-palindrome/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3115-maximum-prime-difference/) | Medium |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0204-count-primes/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0204-count-primes/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -172,6 +178,7 @@ Happy Coding! 💻
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4049-count-values-with-equally-spaced-occurrences-ii/) | Medium |
@@ -180,6 +187,7 @@ Happy Coding! 💻
 | ------- | ------- |
 | [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
@@ -187,6 +195,7 @@ Happy Coding! 💻
 | [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -269,4 +278,8 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0051-n-queens/) | Hard |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 <!---LeetCode Topics End-->
