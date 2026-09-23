@@ -75,6 +75,7 @@ Happy Coding! 💻
 | [0213-house-robber-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0213-house-robber-ii/) | Medium |
 | [0313-super-ugly-number](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0313-super-ugly-number/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -182,6 +183,7 @@ Happy Coding! 💻
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
@@ -204,6 +206,7 @@ Happy Coding! 💻
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -227,6 +230,7 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,4 +290,8 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 <!---LeetCode Topics End-->
