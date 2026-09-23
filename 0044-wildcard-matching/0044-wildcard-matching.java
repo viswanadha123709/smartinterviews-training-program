@@ -19,17 +19,14 @@ class Solution {
 
     private boolean fun(int p1, int p2) {
 
-        // Both string and pattern finished
         if (p1 == m && p2 == n) {
             return true;
         }
 
-        // Pattern finished but string remains
         if (p2 == n) {
             return false;
         }
 
-        // String finished
         if (p1 == m) {
             while (p2 < n) {
                 if (p.charAt(p2) != '*') {
@@ -40,22 +37,16 @@ class Solution {
             return true;
         }
 
-        // Already calculated
         if (dp[p1][p2] != null) {
             return dp[p1][p2];
         }
 
-        // '*'
         if (p.charAt(p2) == '*') {
 
-            // Skip consecutive '*'
             while (p2 + 1 < n && p.charAt(p2 + 1) == '*') {
                 p2++;
             }
 
-            // '*' matches:
-            // 1. zero characters
-            // 2. current character
             return dp[p1][p2] =
                     fun(p1, p2 + 1) ||
                     fun(p1 + 1, p2);
