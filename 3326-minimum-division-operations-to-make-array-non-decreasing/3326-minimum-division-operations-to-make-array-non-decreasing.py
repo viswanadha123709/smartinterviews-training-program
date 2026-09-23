@@ -1,5 +1,7 @@
+from functools import lru_cache
 class Solution:
     def minOperations(self, nums: List[int]) -> int:
+        @lru_cache
         def divisor(n):
             for i in range(2,int(n**0.5)+1):
                 if n%i==0:
