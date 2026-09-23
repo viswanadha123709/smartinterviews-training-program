@@ -84,6 +84,7 @@ Happy Coding! 💻
 | [2614-prime-in-diagonal](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3115-maximum-prime-difference/) | Medium |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4049-count-values-with-equally-spaced-occurrences-ii/) | Medium |
@@ -106,6 +107,7 @@ Happy Coding! 💻
 | [2614-prime-in-diagonal](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3115-maximum-prime-difference/) | Medium |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4050-minimum-days-to-score-exactly-n-points/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -140,6 +142,7 @@ Happy Coding! 💻
 | [2614-prime-in-diagonal](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3115-maximum-prime-difference/) | Medium |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +174,7 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1927-sum-game](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1927-sum-game/) | Medium |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
