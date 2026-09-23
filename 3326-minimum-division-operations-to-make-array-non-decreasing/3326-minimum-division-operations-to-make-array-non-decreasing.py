@@ -1,11 +1,9 @@
 class Solution:
     def minOperations(self, nums: List[int]) -> int:
         def divisor(n):
-            maxi=0
             for i in range(2,int(n**0.5)+1):
                 if n%i==0:
-                    maxi=max(i,n//i)
-                    return maxi
+                    return n//i
             return n
 
         ans=0
