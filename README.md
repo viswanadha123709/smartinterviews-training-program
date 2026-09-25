@@ -67,6 +67,7 @@ Happy Coding! 💻
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0054-spiral-matrix/) | Medium |
@@ -188,6 +189,7 @@ Happy Coding! 💻
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0037-sudoku-solver/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -220,6 +222,7 @@ Happy Coding! 💻
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0054-spiral-matrix/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -286,11 +289,13 @@ Happy Coding! 💻
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0051-n-queens/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0051-n-queens/) | Hard |
 ## Prime Factorization
 | Problem Name | Difficulty |
@@ -300,4 +305,8 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
