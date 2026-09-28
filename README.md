@@ -177,6 +177,7 @@ Happy Coding! 💻
 | [0044-wildcard-matching](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0044-wildcard-matching/) | Hard |
 | [0079-word-search](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0079-word-search/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1927-sum-game](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Greedy
@@ -261,6 +262,7 @@ Happy Coding! 💻
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -320,4 +322,8 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0079-word-search/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
