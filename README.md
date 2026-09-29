@@ -84,6 +84,7 @@ Happy Coding! 💻
 | [1914-cyclically-rotating-a-grid](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2317-maximum-xor-after-operations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -132,6 +133,7 @@ Happy Coding! 💻
 | [0416-partition-equal-subset-sum](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1553-minimum-number-of-days-to-eat-n-oranges/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4050-minimum-days-to-score-exactly-n-points/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -235,6 +237,7 @@ Happy Coding! 💻
 | [0059-spiral-matrix-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0079-word-search](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0079-word-search/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2614-prime-in-diagonal](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2614-prime-in-diagonal/) | Easy |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 ## Simulation
@@ -332,4 +335,5 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
