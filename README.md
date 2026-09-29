@@ -72,6 +72,7 @@ Happy Coding! 💻
 | [0051-n-queens](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0078-subsets](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0079-word-search/) | Medium |
 | [0118-pascals-triangle](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0118-pascals-triangle/) | Easy |
 | [0204-count-primes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0204-count-primes/) | Medium |
@@ -118,6 +119,7 @@ Happy Coding! 💻
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0078-subsets/) | Medium |
 | [2317-maximum-xor-after-operations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2317-maximum-xor-after-operations/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -303,6 +305,7 @@ Happy Coding! 💻
 | [0037-sudoku-solver](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0079-word-search/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
