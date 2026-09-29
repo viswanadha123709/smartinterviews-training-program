@@ -174,6 +174,7 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0010-regular-expression-matching/) | Hard |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0044-wildcard-matching](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0044-wildcard-matching/) | Hard |
 | [0079-word-search](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0079-word-search/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -193,6 +194,7 @@ Happy Coding! 💻
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0037-sudoku-solver/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -297,6 +299,7 @@ Happy Coding! 💻
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0051-n-queens/) | Hard |
