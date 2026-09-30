@@ -77,6 +77,7 @@ Happy Coding! 💻
 | [0118-pascals-triangle](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0118-pascals-triangle/) | Easy |
 | [0204-count-primes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0204-count-primes/) | Medium |
 | [0213-house-robber-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0313-super-ugly-number](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0313-super-ugly-number/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -130,6 +131,7 @@ Happy Coding! 💻
 | [0044-wildcard-matching](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0044-wildcard-matching/) | Hard |
 | [0118-pascals-triangle](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0118-pascals-triangle/) | Easy |
 | [0213-house-robber-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0313-super-ugly-number](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0313-super-ugly-number/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -253,6 +255,7 @@ Happy Coding! 💻
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -346,5 +349,6 @@ Happy Coding! 💻
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0354-russian-doll-envelopes/) | Hard |
 <!---LeetCode Topics End-->
