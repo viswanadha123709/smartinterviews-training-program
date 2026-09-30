@@ -78,6 +78,7 @@ Happy Coding! 💻
 | [0204-count-primes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0204-count-primes/) | Medium |
 | [0213-house-robber-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0213-house-robber-ii/) | Medium |
 | [0313-super-ugly-number](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0313-super-ugly-number/) | Medium |
+| [0354-russian-doll-envelopes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -130,6 +131,7 @@ Happy Coding! 💻
 | [0118-pascals-triangle](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0118-pascals-triangle/) | Easy |
 | [0213-house-robber-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0213-house-robber-ii/) | Medium |
 | [0313-super-ugly-number](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0313-super-ugly-number/) | Medium |
+| [0354-russian-doll-envelopes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1553-minimum-number-of-days-to-eat-n-oranges/) | Hard |
@@ -251,6 +253,7 @@ Happy Coding! 💻
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0354-russian-doll-envelopes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [1201-ugly-number-iii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1201-ugly-number-iii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Combinatorics
@@ -336,4 +339,12 @@ Happy Coding! 💻
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0354-russian-doll-envelopes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0354-russian-doll-envelopes/) | Hard |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0354-russian-doll-envelopes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0354-russian-doll-envelopes/) | Hard |
 <!---LeetCode Topics End-->
