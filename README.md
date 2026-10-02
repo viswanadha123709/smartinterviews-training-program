@@ -314,6 +314,7 @@ Happy Coding! 💻
 | [0037-sudoku-solver](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0051-n-queens/) | Hard |
+| [0077-combinations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0079-word-search/) | Medium |
 ## Algorithm X
