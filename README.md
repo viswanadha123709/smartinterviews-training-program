@@ -131,6 +131,7 @@ Happy Coding! 💻
 | [0010-regular-expression-matching](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0044-wildcard-matching/) | Hard |
 | [0118-pascals-triangle](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0118-pascals-triangle/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0213-house-robber-ii](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0313-super-ugly-number](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0313-super-ugly-number/) | Medium |
@@ -186,6 +187,7 @@ Happy Coding! 💻
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0044-wildcard-matching](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0044-wildcard-matching/) | Hard |
 | [0079-word-search](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0079-word-search/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1927-sum-game](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/1927-sum-game/) | Medium |
@@ -319,6 +321,7 @@ Happy Coding! 💻
 | [0077-combinations](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0079-word-search/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
