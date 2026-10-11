@@ -93,6 +93,7 @@ Happy Coding! 💻
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -239,6 +240,7 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/0204-count-primes/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/viswanadha123709/smartinterviews-training-program/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
